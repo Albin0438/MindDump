@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: minddump
+    env: static
+    buildCommand: |
+      wget https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_linux-amd64.deb
+      dpkg -i hugo_extended_0.165.0_linux-amd64.deb
+      hugo --gc --minify
+    staticPublishPath: ./public
+    envVars:
+      - key: HUGO_VERSION
+        value: 0.165.0

@@ -2,23 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Browsers on MindDump</title>
-    <link>http://localhost:37223/tags/browsers/</link>
+    <link>http://localhost:1313/tags/browsers/</link>
     <description>Recent content in Browsers on MindDump</description>
     <image>
       <title>MindDump</title>
-      <url>http://localhost:37223/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:37223/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:37223/tags/browsers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/browsers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Chrome: The Ultimate Weapon of Google Monopoly</title>
+      <link>http://localhost:1313/posts/google_chrome/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/google_chrome/</guid>
+      <description>A case study on Google Chrome&amp;#39;s worst privacy practices.</description>
+    </item>
     <item>
       <title>Firefox Is Slowly Becoming Bloatware. Seriously...</title>
-      <link>http://localhost:37223/posts/firefox_browser/</link>
+      <link>http://localhost:1313/posts/firefox_browser/</link>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37223/posts/firefox_browser/</guid>
+      <guid>http://localhost:1313/posts/firefox_browser/</guid>
       <description>How Firefox has been slowly becoming bloatware from a goat.</description>
+    </item>
+    <item>
+      <title>I Tried Vivaldi on Linux Just to Find Out it&#39;s Not for Me</title>
+      <link>http://localhost:1313/posts/vivaldi_browser/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vivaldi_browser/</guid>
+      <description>Why vivaldi browser is not that great? What holds it back!</description>
     </item>
   </channel>
 </rss>

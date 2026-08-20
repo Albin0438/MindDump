@@ -20,7 +20,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-ShowRssButtonInSectionTermList: true
+ShowRssButtonInSectionTermList: false
 UseHugoToc: true
 cover:
     image: "/img/fingerprinting.jpg" # image path/url
