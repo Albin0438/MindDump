@@ -97,14 +97,15 @@ menu:
     - identifier: posts
       name: posts
       url: /posts/
+      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 10
+      weight: 20
     - identifier: about
       name: about
       url: /about/
-      weight: 20
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 markup:
   highlight:
