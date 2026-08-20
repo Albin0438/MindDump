@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on MindDump</title>
+    <link>http://localhost:37223/about/</link>
+    <description>Recent content in Abouts on MindDump</description>
+    <image>
+      <title>MindDump</title>
+      <url>http://localhost:37223/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:37223/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:37223/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:37223/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/about/about/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;MindDump&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;I’m an introverted individual who prefers solitude. Reading and writing are my favorite habits. I read about tech, online privacy, digital minimalism, philosophy, etc. This blog is my personal corner where I express my thoughts and reflections.&lt;/p&gt;
+&lt;p&gt;I designed this website to be as minimal as possible. This site is very fast and user-friendly. You won&amp;rsquo;t find any hidden trackers, invasive metrics, ads, or bloated scripts, just blogs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

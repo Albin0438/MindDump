@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on MindDump</title>
+    <link>http://localhost:37223/posts/</link>
+    <description>Recent content in Posts on MindDump</description>
+    <image>
+      <title>MindDump</title>
+      <url>http://localhost:37223/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:37223/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:37223/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Chrome: The Ultimate Weapon of Google Monopoly</title>
+      <link>http://localhost:37223/posts/google_chrome/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/posts/google_chrome/</guid>
+      <description>A case study on Google Chrome&amp;#39;s worst privacy practices.</description>
+    </item>
+    <item>
+      <title>Fingerprinting: The Hidden Trap on the Modern Web</title>
+      <link>http://localhost:37223/posts/fingerprinting/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/posts/fingerprinting/</guid>
+      <description>Explained various fingerprinting methods used in the modern web and what to do about it.</description>
+    </item>
+    <item>
+      <title>Cool and Useful Firefox Add-ons I Use Daily</title>
+      <link>http://localhost:37223/posts/firefox_addons/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/posts/firefox_addons/</guid>
+      <description>Recommendation of some cool privacy-respecting Firefox add-ons.</description>
+    </item>
+    <item>
+      <title>You Should Stop Using Meta (Facebook) Products at All Costs</title>
+      <link>http://localhost:37223/posts/meta/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/posts/meta/</guid>
+      <description>Why everyone should stop using Meta products at all costs.</description>
+    </item>
+    <item>
+      <title>Firefox Is Slowly Becoming Bloatware. Seriously...</title>
+      <link>http://localhost:37223/posts/firefox_browser/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/posts/firefox_browser/</guid>
+      <description>How Firefox has been slowly becoming bloatware from a goat.</description>
+    </item>
+    <item>
+      <title>I Tried Vivaldi on Linux Just to Find Out it&#39;s Not for Me</title>
+      <link>http://localhost:37223/posts/vivaldi_browser/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37223/posts/vivaldi_browser/</guid>
+      <description>Why vivaldi browser is not that great? What holds it back!</description>
+    </item>
+  </channel>
+</rss>

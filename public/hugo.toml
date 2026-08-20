@@ -1,0 +1,146 @@
+# =============================================================================
+# Hugo & Mana Theme Configuration - MindDump
+# =============================================================================
+
+baseURL = "https://minddump-5f4.pages.dev/"
+title = "MindDump"
+theme = "mana"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# -----------------------------------------------------------------------------
+# 1. TOP-LEVEL HUGO CONFIGURATION
+# -----------------------------------------------------------------------------
+
+[pagination]
+  pageSize = 5
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+# Markdown & Syntax Highlighting Settings
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    noClasses = false
+    style = "catppuccin-macchiato"
+
+
+# -----------------------------------------------------------------------------
+# 2. SHARED PARAMS (Site & Theme Settings)
+# -----------------------------------------------------------------------------
+[params]
+  env = "production"
+  author = "MindDump009"
+  description = "A personal corner to dump my thoughts and opinions on tech, privacy, Linux, and whatever else I’m into."
+  keywords = ["Blog", "Open-Source", "Privacy", "Linux"]
+  dateFormat = "January 2, 2006"
+
+  [params.favicons]
+    ico = "/favicon.ico"
+    png = "/favicon.png"
+    png16 = "/favicon-16x16.png"
+    png32 = "/favicon-32x32.png"
+    apple180 = "/apple-touch-icon.png"
+    android192 = "/android-chrome-192x192.png"
+    android512 = "/android-chrome-512x512.png"
+    manifest = "/site.webmanifest"
+
+  [params.social]
+    github = "https://github.com/Albin0438"
+    email = "duo-fruit-huntsman@duck.com"
+
+  # Hero Section
+  heroTitleLine1 = "MindDump"
+  heroTitleLine2 = "Personal notes, thoughts, and software reviews."
+  footerText = "Built with Hugo and Mana theme"
+
+  enableIntegrity = false
+  relatedPostsCount = 3
+
+  # Avatar / Profile Picture Settings
+  [params.avatar]
+    url = "/img/profile.png"
+    [params.avatar.home]
+      assetPath = "img/profile.png"
+    [params.avatar.about]
+      assetPath = "img/profile.png"
+
+  # Code Highlighting Themes for Mana
+  [params.codeHighlight]
+    darkTheme = "catppuccin-macchiato"
+    lightTheme = "catppuccin-frappe"
+
+  [params.copyright]
+    startYear = 2025
+    owner = "MindDump009"
+
+  [params.admonitions]
+    alertStyle = "favicon"
+
+
+# -----------------------------------------------------------------------------
+# 3. LANGUAGES & MENUS
+# -----------------------------------------------------------------------------
+[languages.en]
+  languageCode = "en-US"
+  languageName = "English"
+  languageDirection = "ltr"
+  contentDir = "content"
+  weight = 1
+  title = "MindDump"
+
+  [languages.en.params]
+    description = "Personal notes and reviews on tech I use."
+    author = "MindDump009"
+    heroTitleLine1 = "MindDump"
+    heroTitleLine2 = "Personal notes, thoughts, and software reviews."
+    custom404Message = "Sorry, the page you are looking for could not be found."
+    footerText = "Built with Hugo and Mana theme"
+    favicon = "/favicon/favicon.png"
+
+  # Correctly formatted Menu items inside language settings
+  [[languages.en.menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[languages.en.menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 20
+
+  [[languages.en.menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 30
+
+  [[languages.en.menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 40
