@@ -1,0 +1,115 @@
+---
+title: "The Harmful Effects of Watching Short-Form Content."
+date: 2026-08-21
+# weight: 1
+# aliases: ["/first"]
+tags: ["mental health"]
+author: "MindDump009"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "You should prioritize long-form contents over short-form contents. Here's why."
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+    image: "/img/short_form_contents.jpg" # image path/url
+    alt: "social media platform" # alt text
+    caption: "social media platform" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+---
+
+We got an introduction to short-form content (short-form videos) from TikTok. Then after the ban of TikTok in various countries due to privacy problems, it triggered a massive adoption of this strategy in popular social media platforms like YouTube, Instagram, X, and even Reddit. These platforms saw the absence of TikTok; there is a chance to get more users and interaction from these short-form content strategies.
+
+YouTube was a well-known platform for its educational videos and long-form content. Instagram was a photo-sharing app that wasn't related to short-form videos at all. X was for tweets and sharing news. Then still, why did they all decide to adopt short-form content in the absence of TikTok? Let's discuss.
+
+## What is short-form content?
+
+Short-form content is a collection of short videos made from various sources such as films, television shows, entertainment videos, etc.
+
+We know these days depression, anxiety, and mental disorders have drastically increased, and I would argue that excessive social media usage and endless scrolling through this short-form content have a big part in it.
+
+As we already know, too much time spent scrolling through these videos can cause serious issues like,
+
+### Lower attention span
+
+We will become less interested in watching long-form content over short-form content and easily get distracted halfway through for no reason. Long-form content provides real value and triggers emotions in a healthier way without instant switching. We will end up like we can't sit and watch a long video or an interesting movie.
+
+### Ability to focus will be decreased
+
+Even if we took the phone for 5 minutes and checked a message, an accidental scroll on these types of videos causes the release of dopamine in the brain. Then we just scroll more, like mining gold for hours in a belief that the next scroll will deliver something useful. Expectation for an instant reward.
+
+## What actually happens behind the scenes?
+
+We are not just scrolling through a bunch of short-form videos made for pure entertainment, but emotions. These 20-30 second videos have to say a lot in their limited duration, which our brain is not designed to process. That can be something joyful, sad, exciting, or even depressing. Our brain instantly gets attention from it and makes us feel that emotion even if it's not real.
+
+Then you scroll up and see something depressing. The brain suddenly shifts your emotion to a depressing state. Then, another scroll, saw something sad, and instantly switched emotion to sadness. It goes and goes on.
+
+Basically, this short-form content you are watching is a loop of emotions. The emotions we want to only feel in real situations happen in our real life and within constant gaps. On the other side, short-form content delivers fresh emotions into your brain within 10-20 seconds. These instant emotional switches can really damage your brain in unexpected ways and put it in an unrecoverable state.
+
+## Long time sitting without movements
+
+Everyone must notice that when you are scrolling through this stuff, you stay longer without movements, as if staring at the screen. No matter if you are studying for an exam, preparing dinner, walking, eating, etc., all your focus is on the phone screen and the content you are watching.
+
+This type of habit leads to a decreased social life. Instead of interacting with someone in front of you or doing your goals, you prioritize short-form content.
+
+> Sadly nowadays everyone is scrolling on their phone. No one has time for meaningful talks.
+
+The fake feeling of knowledge you are getting is also an illusion. Actually, you are not getting any value from it. You may think, *"I am scrolling through this much content within a short amount of time. So I must be getting information so fast. So I don't have to waste time on long-form content anymore."* But no. You scroll through 20 videos just to understand; you don't remember the first 10 videos you watch.
+
+If you want real knowledge or want to learn a useful skill, then you have to spend your valuable time on it by trying to do it. Did you make any mistake? That's absolutely ok. Mistakes make you good at anything by forcing you to solve them yourself.
+
+Instead, scrolling through short-form content and thinking, *"Now I know almost everything about something,"* or just blaming yourself for not remembering it is not going to change anything at all. Short-form content is just for unhealthy entertainment. The less you scroll, the better you are.
+
+## How does the brain rewire?
+
+When you watch short-form contents daily, you are training your brain to become good at instantly switching emotions and always be ready to store temporary information as a massive wave of knowledge is coming as you scroll. Actually, as you follow this practice, your brain becomes really good at it so fast. Then it will end up in conditions like emotional sensitivity, low attention span, depression, distraction, etc.
+
+In the end, you just spend a massive amount of time destroying your own brain and helping make money for some popular toxic social media companies.
+
+## Why does every platform have it?
+
+Because it's that much effective in keeping users hooked. It gives a massive amount of dopamine and comfort to viewers. No efforts are needed, like searching and finding what you want. It's instant; just scroll and scroll. An endless loop.
+
+More than that, all these platforms exist not for making you better but for increasing all their revenue and market share as high as possible. From their side, short-form content is just a feature; if you use it and you become more mentally distracted, then it's your fault. Nobody forced you to use it; it was just a psychological effect. We can't blame anyone for that, and even if we did, anyone wouldn't listen to us.
+
+> Those who built or invented this feature have restricted their kids and family from consuming it completely. Because they know the dark side of it. They are clever. We are the people who blindly trust them and fall into their trap.
+
+## What to do about it?
+
+Nothing so hard to do. Just stop watching it until it provides no real value or meaning. Why do you want these scrolling in the first place?. Ask yourself, what's the purpose of continuously using harmful features even after we know it's affecting our brain negatively? If your answer is *"I don't care at all,"* then it means you are already affected. You need immediate detoxing.
+
+## Solution.
+
+The major companies that have massive amounts of users and effectively integrated their platforms into short-form videos are Meta and Google after TikTok. By the way, a complete escape from these via their official proprietary app is not possible at all, in my sense.
+
+So I recommend using alternative apps.
+
+> ***First of all, I recommend deleting Instagram at all costs, as it has no value in anyone's life except the fake sense of connectivity. You need to deactivate your Instagram account for two weeks to find who really actually cares about you more than your likes. Maybe only 1 or 2 from your 1000 Instagram followers.***
+
+> [**Read this**](/posts/meta)
+
+## Practical solutions
+
+- Use platforms like YouTube, Reddit, and X in a browser.
+- Consider open-source clients like NewPipe, PipePipe, LibreTube, etc.
+- Switch to fediverse
+- Use browser extensions like Unhook, Untrap for YouTube, etc.
+- Use any digital well-being app from the Play Store.
+
+> **No matter which app or functionality you use to prevent it. Until you decide to stop, nothing will work.**
+
+Hope you all understand what I tried to deliver.
+
+Thank you for reading.
