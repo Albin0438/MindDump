@@ -6,8 +6,8 @@
     <description>Recent content in Mental Health on MindDump</description>
     <image>
       <title>MindDump</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/img/profile.png</url>
+      <link>http://localhost:1313/img/profile.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deleting social media can be a good treat for your brain.</title>
-      <link>http://localhost:1313/posts/social-media-detox/social-media-detox-part-1/</link>
+      <link>http://localhost:1313/posts/social-media-detox/</link>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/social-media-detox/social-media-detox-part-1/</guid>
+      <guid>http://localhost:1313/posts/social-media-detox/</guid>
       <description>Why should you consider deleting social media for your mental health? Here is why...</description>
     </item>
     <item>

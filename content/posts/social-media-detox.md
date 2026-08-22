@@ -234,7 +234,7 @@ And all these data are collected as soon as you open the app. Even if you deny t
 
 The profiles they create using these data are permanent; they will never expire or get destroyed, even if you die.
 
-Big corporate companies never sell this to anyone because data is the fuel for this type company but they collect or buy it in every possible way.
+Major social media companies never sell this to anyone because data is the fuel for this type company but they collect or buy it in every possible way.
 
 ### You are stuck in reactive mode instead of proactive mode.
 
