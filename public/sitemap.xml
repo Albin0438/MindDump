@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/social-media-detox-part-1/</loc>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/mental-health/</loc>
-    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/short_form_contents/</loc>
     <lastmod>2026-08-21T00:00:00+00:00</lastmod>
@@ -49,6 +52,8 @@
   </url><url>
     <loc>http://localhost:1313/posts/vivaldi_browser/</loc>
     <lastmod>2026-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/social-media-detox-part-2/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
