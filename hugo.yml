@@ -56,7 +56,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: MindDump
     subtitle: "Personal notes, thoughts, and software reviews."
     imageUrl: "/img/profile.png"
