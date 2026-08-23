@@ -48,7 +48,7 @@ The **first party** term indicates the **actual domain you are visiting** (root 
 
 Cookies were a very good idea, which made a user's browsing session functional and more user-friendly. As always, no matter how good a functionality is, big tech companies like Google, Meta, Amazon, etc. always find a way to misuse it. With the effective tracking mechanisms they developed, cookies are now used for tracking users across sites.
 
-For example,
+For example:
 
 *You logged in to YouTube on google chrome, and that's your primary browser. You visit a news site in that same browser, and Google gets your interaction data linked to your own Google ID.*
 
