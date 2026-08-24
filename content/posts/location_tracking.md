@@ -302,7 +302,7 @@ Major advertising companies like Google, Meta, Amazon, etc., convince users to i
 
 Also, the sharing of location and behavioral data did not only happen one time; it was re-shared across many advertisers, service providers, and data brokers. An average mobile user has no idea about this at all, which is disturbing.
 
-> At the time you are reading this blog, there are chances that you also have a detailed profile on any data broker’s database.
+> **At the time you are reading this blog, there are chances that you also have a detailed profile on any data broker’s database.**
 
 ## 5. Mobile Advertising Identifier (MAID)
 
