@@ -359,11 +359,11 @@ Widely used by insurance companies and agencies to sell products to specific use
 
 Not everyone has to follow these many strict moves in their life. The choice is completely up to the individual and based upon their threat model. These are the 3 choices decisions I took to eliminate most of the surveillance and tracking from my life.
 
-#### Free and open-source apps
+**1. Free and open-source apps**
 
 Switching from proprietary apps to free and open-source apps can drastically change the amount of data collected from your device. These apps are designed to be lightweight and distributed under a free license that anyone can use or modify for free. These apps are primarily published on trusted app stores like **f-droid**. This strategy doesn't require a custom rom installation, rooting or degoogling. Just install and enjoy.
 
-#### Degoogling
+**2. Degoogling**
 
 This helps to strip down all Google-related services from android phone and still use the phone with possible comfort and usability. There are many ways available to achieve this.
 
@@ -372,11 +372,11 @@ This helps to strip down all Google-related services from android phone and stil
 * unlock the bootloader to install a more lightweight and faster **custom ROM** like lineageOS, grapheneOS, calyOS, etc.
 > This will also increase the life-span of your android device.
 
-#### Custom ROM
+**3. Custom ROM**
 
 An entire switch from stock ROM to a more free and lightweight OS can be relaxing and satisfying. When compared to stock ROM, custom ROMs are more privacy-friendly and well maintained. Gives more life span to the device.
 
-##### Requirements
+**Requirements**
 
 * A phone with unlocked bootloader.
 * Compatible custom ROM image.
