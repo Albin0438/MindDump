@@ -320,10 +320,10 @@ On Android, every preinstalled, third-party app has access to MAID by default.
 ### What type of prevention method will work?
 
 * Custom ROMs like LineageOS, GrapheneOS, etc., which are degoogled.
-* Opting out of app tracking. (Mostly works on iOS, not on Android)
+* Opting out of app tracking. (Mostly works on IOS, not on Android)
 * Deleting the advertising ID in the system settings will wipe the main ad code.
 * Using privacy-focused browsers.
-* Revoking app permission or using a local firewall.
+* Revoking app permission and using a local firewall.
 
 ### What you can’t control
 
