@@ -265,7 +265,7 @@ To get buyers to offer more money for higher ad space, the app automatically bro
 > (still identifiable and does not equal spoofing)
 * Removing exif data (metadata) before sharing images helps remove embedded location details in photos taken using a mobile camera.
 * A DNS can prevent the collected data transmission if the data is sent to a domain name. 
-> (If it’s direct IP transmission, then DNS won’t help)
+> (If it’s a direct IP transmission, then DNS blocking won’t help)
 * Disabling network access with local firewall apps might limit the transmission of location data that happened.
 > (But remember, many of these apps strictly require network access to work)
 * Ditch proprietary apps and switch to privacy-friendly FOSS alternatives.
