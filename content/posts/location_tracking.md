@@ -386,6 +386,6 @@ An entire switch from stock ROM to a more free and lightweight OS can be relaxin
 
 ---
 
-Hope you guys found my blog post article useful.
+Hope you guys found this article useful.
 
 Thank you for reading.
