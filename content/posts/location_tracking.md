@@ -238,7 +238,7 @@ Location data is not only about the present location of your device or you. Itâ€
 
 > For example,
 
-Various dating apps used location data to suggest partners or detect who certain users are mostly interested in, in which place they spend most of their time, who attended a particular meeting, who participated in protests against governments, identify journalists, etc.
+Various dating apps used location data to suggest partners or detect who certain users are mostly interested in, in which place they spend most of their time. Not only dating apps but some other apps collects who attended a particular meeting, who participated in protests against governments, details to identify journalists, etc.
 
 Many past incidents have revealed location data collected by various popular apps are purchased by governments and law enforcement to track down individuals. This included both real-time and historical data.
 
