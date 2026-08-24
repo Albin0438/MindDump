@@ -275,7 +275,8 @@ To get buyers to offer more money for higher ad space, the app automatically bro
 ### What you can’t control
 
 * A malicious app injecting ad/tracker code can bypass device-level protections and still transmit location-related data. The solution is to never install unknown apps.
-* Your IP address can be pointed to your real location. (A VPN can hide your IP.)
+* Your IP address can be pointed to your real location.
+> (Using any trusted VPN provider will help you to hide your IP address.)
 * Location data collected by 1 app will be shared with hundreds of data brokers and partners.
 
 ## 4. Behavioral Data Collection
