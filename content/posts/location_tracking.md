@@ -90,12 +90,13 @@ Used for providing instant location for delivery apps, maps, or riding apps. The
 
 The accuracy of detection can vary based upon several factors, like
 
-* no. of towers installed
-* The area the subscriber lives in
+* Number of towers installed.
+* The area the subscriber lives in.
 * Climate conditions.
 * Number of nearby cell towers.
 * The technology used by the subscriber (4G, 5G, etc.) has a SIM card inserted and registered with the cell network.
-* State of mobile phone (whether powered on/off, in airplane mode, using wifi, etc.)
+* State of mobile phone.
+> (whether powered on/off, in airplane mode, using wifi, etc.)
 
 All the above-mentioned cellular positioning methods sound like they are used for a good purpose and make everyone’s life easier. Yes. But you didn’t see the behind scenes yet. Aside from all these good working strategies, all of our connectivity details and location data are aggressively logged and kept for years according to government needs.
 
