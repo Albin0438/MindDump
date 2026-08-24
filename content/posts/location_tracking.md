@@ -30,7 +30,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-In order to protect our privacy online, we use services like an ad blocker, switch to privacy-focused browsers, use more focused apps, degoogle, install custom ROMs, etc. But how many of the users know that there is a serious privacy threat always following us, leaking identifiable data to data brokers and advertisers? A threat that an operating system, its settings, system/user apps, DNS, VPN, or even a firewall can’t protect us from. It is called location tracking.
+In order to protect our privacy online, we use services like an ad blocker, switch to privacy-focused browsers, use more privacy focused apps, degoogle, install custom ROMs, etc. But how many of the users know that there is a serious privacy threat always following us, leaking identifiable data to data brokers and advertisers? A threat that an operating system, its settings, system/user apps, DNS, VPN, or even a firewall can’t protect us from. It is called location tracking.
 
 Daily, every app and our carrier we use collects and logs our location in various ways without people’s attention, as this process is invisible and won’t affect device battery life or speed that much. Turning off the location or enabling airplane mode doesn’t even stop this location data collection on modern devices.
 
