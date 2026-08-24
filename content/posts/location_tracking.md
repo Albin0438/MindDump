@@ -197,7 +197,7 @@ When 5G or LTE signals cause interruption, the phone auto-fallbacks to older ins
 
 ### Wifi and Bluetooth Tracking
 
-We can see modern smartphones and their features have evolved a lot. Previously we used airplane mode to put our phone in a disabled/sleep state, as it prevented all connections from establishing from our phone and disabled Bluetooth, Wi-Fi, and location services automatically. But nowadays, when we turn on airplane mode, most services like Bluetooth, Wi-Fi, and location stay on. May would think, This is a new feature. This is not a feature but an advanced tracking mechanism developed for more in-depth and uninterrupted tracking via invisible signals so it won’t gain any user attention at all.
+We can see modern smartphones and their features have evolved a lot. Previously we used airplane mode to put our phone in a disabled/sleep state, as it prevented all connections from establishing from our phone and disabled Bluetooth, Wi-Fi, and location services automatically. But nowadays, when we turn on airplane mode, most services like Bluetooth, Wi-Fi, and location stay on. Many would think, This is a new feature. This is not a feature but an advanced tracking mechanism developed for more in-depth and uninterrupted tracking via invisible signals so it won’t gain any user attention at all.
 
 Modern smartphones have other radio transmitters in addition to the mobile network interface. They also have wifi and Bluetooth support. The signals transmitted use less power than a mobile signal uses, and they can only be received within a short range, even though someone using a sophisticated antenna could detect these signals from long distances too.
 
