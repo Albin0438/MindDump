@@ -96,7 +96,7 @@ The accuracy of detection can vary based upon several factors, like
 * Number of nearby cell towers.
 * The technology used by the subscriber (4G, 5G, etc.) has a SIM card inserted and registered with the cell network.
 * State of mobile phone.
-> (whether powered on/off, in airplane mode, using wifi, etc.)
+> (is the phone powered on/off, in airplane mode, using wifi instead of mobile data, etc.)
 
 All the above-mentioned cellular positioning methods sound like they are used for a good purpose and make everyone’s life easier. Yes. But you didn’t see the behind scenes yet. Aside from all these good working strategies, all of our connectivity details and location data are aggressively logged and kept for years according to government needs.
 
@@ -126,9 +126,9 @@ At the same time, **multiple carriers also share certain data in-between them**.
 ### What you can’t control
 
 * You cannot opt out of network logging by towers.
-* Even if your phone is burned, there is still a phone in another hand, also public wifi, CCTV in every street corner, etc…
-* You are with your tech-savvy friend who has multiple phones in his hand, so these devices are enough to track you down.
-* Using a normal keypad phone also won’t save you as long as it has a SIM card, uses 5G or 4G, and its power on always.
+* Even if you didn't carry your phone outside home, there is still peoples who carries their phone everywhere, there public wifi in internet case and restaurants, there is CCTV in every street corner, etc…
+* You are with your tech-savvy friend who has a smartwatch, smartphone, wireless headsets which is more than enough to track you down.
+* Using a normal keypad phone won’t save you as long as it has a SIM card, uses 5G or 4G, and it is in power on state.
 
 ## 2. Cell Site Simulator
 
