@@ -343,15 +343,15 @@ Our location data is being leaked from phones in many visible and invisible ways
 
 Daily, these collected location data have been effectively used for
 
-### Predictive behavior profiling
+**1. Predictive behavior profiling**
 
 Your time-spending habits reveal socioeconomic status, religion, medical condition, relationship status, and more.
 
-### Hyper-targeted monetization
+**2. Hyper-targeted monetization**
 
 A data broker will charge more from advertisers if they are able to prove an ad makes the individual walk into a specific store.
 
-### Risk modeling and real-time tracking
+**3. Risk modeling and real-time tracking**
 
 Widely used by insurance companies and agencies to sell products to specific users. Using the location data, they can measure financial risks, property risks, preferred insurance rates, determine to whom we planned to vote for and manipulate our decisions, etc…
 
