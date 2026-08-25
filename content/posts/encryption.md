@@ -32,7 +32,7 @@ cover:
 
 In the modern internet most of our daily activities on the internet like browsing data, transactions, calls and messaging via encrypted messengers, dns queries, https protocol, etc. Still many of us don't really know what exactly an encryption is and how it works. Let's take a deep dive into it.
 
-## Encryption
+## 1. What is Encryption?
 
 Encryption is a method of converting actual data into a unreadable scrambled format (known as ciphertext). The process is done using various mathematical operations, algorithms and complex digits. The encrypted data is locked with a instantly generated cryptographic key to prevent decryption by anyone on the internet. So only who have the matching encryption key can unlock and read the encrypted data.
 
@@ -56,11 +56,11 @@ The clue is non-secret because it is a public number created by math and doesn't
 
 Without this code anyone on the internet can decrypt the data using the same algorithm used and read it without sender's permission. A secret code makes sure that this won't happen.
 
-### Types of encryption
+## 2. Types of Encryption
 
 Encryption is done using types of mathematical formula and algorithms. but specifically there are 2 types of encryption is available.
 
-#### Symmetric encryption
+### Symmetric encryption
 
 Symmetric encryption only uses a single secret key to scramble and unscramble actual data
 
@@ -68,7 +68,7 @@ In this type of encryption mechanism, both sender and receiver have the exact sa
 
 **For example**, a normal lock that have exact same keys used by both members in the same house to open the door.
 
-#### Asymmetric encryption
+### Asymmetric encryption
 
 Unlike in the symmetric, asymmetric encryption uses a pair of keys to scramble and unscramble the data. Those keys are known as **public** and **private** key.
 
@@ -76,7 +76,7 @@ In here, you send your public key to the other person over the internet. Using t
 
 **For example**, a person drops a letter on your personal mailbox. Here mail box is the public key. Nobody else walking near the mailbox can open or access the main box until you reach the mailbox and open it with your private key.
 
-## Why encryption?
+## 3. Why Encryption?
 
 ### Protect privacy
 
@@ -122,7 +122,7 @@ within a limit.
  
  Currently websites uses http instead of https are very rare.
  
- ## Disadvantages of encryption
+ ## 4. Disadvantages of encryption
  
  Every inventions ever created has disadvantages. Same goes for encryption too. Let's look at what are the disadvantages of encryption.
  
@@ -144,7 +144,7 @@ within a limit.
  
  Also a compromise of private key can collapse all the security provided by using that key.
  
- #### Maintenance cost
+ ### Maintenance cost
  
  For many companies like maintaining a online messaging app, social media, blogging platform, banking services,etc. maintaining a setting up and maintaining a military-grade encryption requires special hardware, digital certificates, dedicated software for managing keys and personally trained employees which can end up in a huge expensive setup.
  
@@ -152,7 +152,7 @@ within a limit.
  
  Cybercriminals and malicious actors use encrypted channels and HTTPS connections to deliver malware or other types of threats that can steal user data. Because this data is encrypted, it's often hard for the security software to detect and block.
  
-## The misuse of encryption
+## 5. The misuse of encryption
 
 Aside the advantages and disadvantages of encryption, it is actively misused by malicious actors.
 
@@ -186,7 +186,7 @@ End-to-End Encrypted messengers ensures that all communication happened inside t
 
 As usual, criminals, terrorists, and extremist groups take advantage of these platforms to plan illegal activity, conduct child sexual acts, distribution of drug, selling stolen materials, etc. So this cannot be decrypted and read by law enforcement even with a court warrant.
 
-## Recommended tools for daily use
+## 6. Recommended tools for daily use
 
 Encrypted tools are not only limited for big corporations or governments. These are a must have tools in every individuals life. There are many tools that provide meaning to our daily activities and ensure our data is completely secure at a preferred comfort level.
 
@@ -374,7 +374,7 @@ While encryption ensures security a vpn provider helps us to mask identity along
 * Any other free VPN from playstore
 * VPN provided by anti-virus softwares.
 
-## Cryptographic file encryption tools
+## 7. Cryptographic file encryption tools
 
 There are tools that allow users them-self implement encryption for files. usually this tools become useful when uploading any highly confidential files to the cloud. Which provides added layer of security.
 
@@ -385,7 +385,7 @@ There are tools that allow users them-self implement encryption for files. usual
 * 7-Zip
 
 
-## Conclusion
+## 8. Conclusion
 
 No matter how much the technology is developed, security issues are always there and many malicious actors, governments and data brokers need your data. Encryption is an essential tool every individual can use to minimize or prevent this type of attacks and spying even though it is not a bulletproof solution.
 
