@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Aren&#39;t Broken: A Clear Guide to Trauma, Overthinking, and Healing</title>
+      <link>http://localhost:1313/posts/trauma/</link>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/trauma/</guid>
+      <description>Explaining what trauma is, how it changes an individual&amp;#39;s brain, and how it can be healed.</description>
+    </item>
     <item>
       <title>How Encryption Powers the Internet.</title>
       <link>http://localhost:1313/posts/encryption/</link>
