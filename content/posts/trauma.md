@@ -315,6 +315,10 @@ It's really worth it as life is a precious thing.
 
 ---
 
+> **A quick note**: I'm not a therapist or psychologist. Everything I've shared here comes from my own self-study, reading, and research on trauma and mental health. This post is just meant to be educational and helpful. If you're struggling with trauma related issues and need help, please consider reaching out to a professional who can give you personal support.
+
+---
+
 Hope you find this article useful.
 
 Thank you for reading.
