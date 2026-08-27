@@ -5,12 +5,18 @@ ShowReadingTime: false
 ShowWordCount: false
 ---
 
-Welcome to **MindDump**! 
+Welcome to MindDump!
 
-I’m an introverted individual who prefers solitude. Reading and writing are my favorite habits. I read about tech, online privacy, digital minimalism, philosophy, etc. This blog is my personal corner where I express my thoughts and reflections.
+I’m an introverted person who prefers solitude, reading, and writing in my own quiet space. I created this blog as a simple digital notebook to write about things I explore, like tech, network privacy, mental health, philosophy, and digital minimalism.
 
-I designed this website to be as minimal as possible. This site is very fast and user-friendly. You won't find any hidden trackers, invasive metrics, ads, or bloated scripts, just blogs.
+I recently saw someone asking why they should trust this blog, if it's just some hidden promotion, or where I get my information. So I want to be 100% clear: I do not make a single rupee from this site. There are no ads, no paid promotions, no referral links, and no affiliate programs anywhere here.
 
-I kept this site as open-source, and it will always be. Users can expect posts about online privacy and case studies on the most used known privacy-invading services. Also, I try to reflect the use of free software and software in my real life instead of depending upon some eye-catching, worst-case proprietary apps.
+This website is just a fast, static page hosted openly on GitHub. There are no hidden tracking scripts, analytics, or bloat. Anyone can go check the source code on GitHub to verify that for themselves.
 
-I hope my articles bring you useful knowledge and deliver knowledge to you. Thank you for taking the time to read my blogs!
+I don't claim to be a journalist, a scientist, or an expert with fancy qualifications. I'm just someone who reads a lot, tests out privacy tools and software on my own devices, and writes down my own experiences and thoughts. I don't plan on adding source links or references to every post because this is just my personal writing habit, not a news company.
+
+Getting visitors on a site that has no ads, no marketing, and no SEO tricks is really hard. But I write because I genuinely love open-source software and sharing what I learn. Since I'm fairly new to blogging, I know I'm not perfect, and I always welcome honest suggestions to make the site better.
+
+If my personal thoughts and simple write-ups aren't what you're looking for, that's completely fine—you can always skip or ignore the blog. I write purely for the joy of it, and this site will always stay a free, independent space.
+
+Thanks for taking the time to read!
