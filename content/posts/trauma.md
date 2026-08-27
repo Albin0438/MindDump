@@ -30,6 +30,10 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+> **A quick note**: I'm not a therapist or psychologist. Everything I've shared here comes from my own self-study, reading, and research on trauma and mental health. This post is just meant to be educational and helpful. If you're struggling with trauma related issues and need help, please consider reaching out to a professional who can give you personal support.
+
+---
+
 We like to spend time with our family, there is a lot of work to do, we have our favorite hobbies like reading, writing, journaling, art, or even going for a walk. But because of some repeated and disturbing thoughts we often pull ourselves back from doing what we really like. These heavy thoughts are called overthinking anxiety. There is a high chance this overthinking and anxiety is a result of a trauma we always carry inside our mind. Let's look at what trauma is and how it can affect our lives in unexpected ways.
 
 ## 1. What is Trauma?
@@ -312,10 +316,6 @@ Trauma is a very disturbing condition. But most of us feel like there is no way 
 Actually, whatever happened to you isn't because you deserved it. It happened because of circumstances beyond your control. It doesn't define your present or your future. So, instead of getting permanently stuck in a dark thought patterns, recreating what already ended, start to analyze the pattern and cure yourself.
 
 It's really worth it as life is a precious thing.
-
----
-
-> **A quick note**: I'm not a therapist or psychologist. Everything I've shared here comes from my own self-study, reading, and research on trauma and mental health. This post is just meant to be educational and helpful. If you're struggling with trauma related issues and need help, please consider reaching out to a professional who can give you personal support.
 
 ---
 
