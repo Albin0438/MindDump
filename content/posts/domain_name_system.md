@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/img/domain_name_service.jpg" # image path/url
+    image: "/img/domain_name_system.jpg" # image path/url
     alt: "DNS" # alt text
     caption: "DNS" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -162,7 +162,7 @@ Standard unencrypted DNS (over port 53) poses several security and privacy risks
 There are several well tested and recommended methods to secure your DNS queries for free. These include,
 
 * **DOH (DNS Over HTTPS)**: This encrypt DNS queries using the standard port 443. So it blends with normal web traffic, which makes ISPs cannot block or monitor specific domain request.
-* **DOT (DNS Over TLS)**: Encrypt DNS queries using standard port 853, securing queries system level. However, DoT runs on its own dedicated port 853. So ISP can easily identify that you are using an encrypted DNS.
+* **DOT (DNS Over TLS)**: Encrypt DNS queries using standard port 853, securing queries system level. However, DOT runs on its own dedicated port 853. So ISP can easily identify that you are using an encrypted DNS.
 * **Public resolvers**: There are many free privacy focused public resolvers available to consider when the aim is encryption, faster resolution, customization and privacy. These are trusted, non-logging and with advanced features.
 
 ---
