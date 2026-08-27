@@ -80,7 +80,13 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/habitant5830/MindDump"
+
+    - name: mastodon
+      url: "https://mastodon.social/deck/@cymbal8240"
+
+    - name: email
+      url: "mailto:marathon-gulp-geek@duck.com"
 
   cover:
     hidden: false # hide everywhere but not in structured data
