@@ -183,7 +183,7 @@ There are several well tested and recommended methods to secure your DNS queries
 
 ### Common myths
 
-* Encrypted DNS doesn't unblock ISP blocked websites or domains.
+* Encrypted DNS won't unblock sites if ISP blocked them using IP address or SNI (Server Name Indication) filtering. Common DNS tampering methods can be bypassed using Encrypted DNS.
 * Even if connection is now encrypted, ISP can see the domain names we visit without a VPN.
 * Encrypted DNS doesn't bypass ISP throttling.
 * Encrypted DNS doesn't hide the data rate you consumed, you online presence, protocol you used, etc.
