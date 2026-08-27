@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS: The Phonebook of the Internet</title>
+      <link>http://localhost:1313/posts/domain_name_system/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/domain_name_system/</guid>
+      <description>Explaining how DNS works and why its important to choose a secure DNS provider!</description>
+    </item>
     <item>
       <title>Beyond GPS: The Hidden Ways Your Phone Tracks You</title>
       <link>http://localhost:1313/posts/location_tracking/</link>

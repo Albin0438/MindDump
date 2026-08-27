@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DNS: The Phonebook of the Internet</title>
+      <link>http://localhost:1313/posts/domain_name_system/</link>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/domain_name_system/</guid>
+      <description>Explaining how DNS works and why its important to choose a secure DNS provider!</description>
+    </item>
     <item>
       <title>You Aren&#39;t Broken: A Clear Guide to Trauma, Overthinking, and Healing</title>
       <link>http://localhost:1313/posts/trauma/</link>
@@ -102,9 +109,9 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Welcome to &lt;strong&gt;MindDump&lt;/strong&gt;!&lt;/p&gt;
-&lt;p&gt;I’m an introverted individual who prefers solitude. Reading and writing are my favorite habits. I read about tech, online privacy, digital minimalism, philosophy, etc. This blog is my personal corner where I express my thoughts and reflections.&lt;/p&gt;
-&lt;p&gt;I designed this website to be as minimal as possible. This site is very fast and user-friendly. You won&amp;rsquo;t find any hidden trackers, invasive metrics, ads, or bloated scripts, just blogs.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Welcome to MindDump!&lt;/p&gt;
+&lt;p&gt;I’m an introverted person who prefers solitude, reading, and writing in my own quiet space. I created this blog as a simple digital notebook to write about things I explore, like tech, network privacy, mental health, philosophy, and digital minimalism.&lt;/p&gt;
+&lt;p&gt;I recently saw someone asking why they should trust this blog, if it&amp;rsquo;s just some hidden promotion, or where I get my information. So I want to be 100% clear: I do not make a single rupee from this site. There are no ads, no paid promotions, no referral links, and no affiliate programs anywhere here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
