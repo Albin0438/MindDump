@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Philosophy on MindDump</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on MindDump</description>
+    <image>
+      <title>MindDump</title>
+      <url>http://localhost:1313/img/profile.png</url>
+      <link>http://localhost:1313/img/profile.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nihilism: How I Saw the World</title>
+      <link>http://localhost:1313/posts/nihilism/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/nihilism/</guid>
+      <description>My perspective on the philosophical theory &amp;#39;nihilism&amp;#39; on modern society.</description>
+    </item>
+  </channel>
+</rss>
